@@ -1,3 +1,2 @@
-alert("WOW");
-1
+console.log("WOW");
 
